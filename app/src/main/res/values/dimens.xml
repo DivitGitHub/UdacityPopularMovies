@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- grid -->
+    <dimen name="item_margin">8dp</dimen>
+    <dimen name="list_margin">2dp</dimen>
+
+    <!-- detail -->
+    <dimen name="detail_movie_poster_padding">10dp</dimen>
+    <dimen name="detail_rating_margin">24dp</dimen>
+    <dimen name="detail_padding_tv">6dp</dimen>
+    <dimen name="progress_indicator_size">42dp</dimen>
+    <dimen name="detail_text_size">20sp</dimen>
+    <dimen name="detail_release_date_text_size">16sp</dimen>
+    <dimen name="detail_backdrop_height">250dp</dimen>
+    <dimen name="trailer_text_size">24sp</dimen>
+    <dimen name="reviews_text_size">24sp</dimen>
+    <dimen name="plot_text_size">16sp</dimen>
+    <dimen name="trailer_padding">4dp</dimen>
+    <dimen name="review_padding">4dp</dimen>
+
+    <!-- error -->
+    <dimen name="error_text_padding">16dp</dimen>
+    <dimen name="error_text_size">20sp</dimen>
+
+    <!-- list item -->
+    <dimen name="review_author_text_size">18sp</dimen>
+    <dimen name="review_content_text_size">16sp</dimen>
+    <dimen name="review_cardview_margin">5dp</dimen>
+    <dimen name="review_author_padding">6dp</dimen>
+    <dimen name="review_content_padding">6dp</dimen>
+    <dimen name="fab_margin">20dp</dimen>
+</resources>
