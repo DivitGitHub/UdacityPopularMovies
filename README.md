@@ -1,6 +1,6 @@
 # UdacityPopularMovies
 
-Here is an android application for the Udacity Popular movies project. The application fetches data from themoviedb via AsyncLoaders and the user is able to store the movies for offline view using SQLite.
+Here is an android application for the Udacity Popular movies project. The app shows a list of popular/top rated movies that’s also optimized for tablets. In addition the app allows users to save favorites (for offline view), play trailers and read user reviews for a particular movie.  Fetches movie information using themoviedb.org web API.
 
 ## PROJECT SPECIFICATION
 
